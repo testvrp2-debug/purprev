@@ -1,5 +1,8 @@
 <div align="center">
 
+> [!INFO]
+> This revival is practically dead. If you still want to host it yourself, here ya go.
+
 # PurpRev
 
 <img src="images/nonelogo.png" alt="Logo" width="320">
